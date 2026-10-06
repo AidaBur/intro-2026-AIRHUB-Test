@@ -1,4 +1,4 @@
-THIS IS NEW TEST
+TEST 10.6
 //----------------------------------
 // LESSON 1 BASICS AND FUNCTIONS
 //----------------------------------
