@@ -1,3 +1,4 @@
+TEST 10/7
 ## Get organized and write some code!
 - [ ] In your GitHub repository, if you have not yet merged your pull request from last week, merge your open lesson-5 pull request by going to the "Pull Requests" tab of your repository. Click on your open pull request, then click on the green 'Merge Pull Request" and confirm the merge. This will update your main branch with the work you did on your lesson-5 branch.
 - [ ] Open your code editor and, in the terminal, make sure you're on your main branch. If you're still on your lesson-5 branch, you can switch to your main branch by using the git command `git checkout main`.
