@@ -1,6 +1,5 @@
-TEST CHANGES Aida
 //----------------------------------
-// LESSON 1 BASICS AND FUNCTIONS Test 
+// LESSON 1 BASICS AND FUNCTIONS Test 10/08
 //----------------------------------
 
 // This is the coding assignment for the first week of the Intro to Programming course from Code the Dream. The concepts touched on in this assignment include:
