@@ -1,6 +1,6 @@
 TEST CHANGES Aida
 //----------------------------------
-// LESSON 1 BASICS AND FUNCTIONS
+// LESSON 1 BASICS AND FUNCTIONS Test 
 //----------------------------------
 
 // This is the coding assignment for the first week of the Intro to Programming course from Code the Dream. The concepts touched on in this assignment include:
@@ -20,7 +20,7 @@ TEST CHANGES Aida
 // - Once you feel the console output is correct, move onto the next question
 
 // ---------- QUESTION 1 ----------
-// Declaring and giving string values to variables.
+// Declaring and giving string values to variables. Write clear variables
 // Create three variables.  Make sure to use camelCase when you are naming your variable - this means all letters are lowercase except for the first letter of words that are in the middle.  This is the accepted standard for JavaScript code.  
 // - First variable should be named "firstName" with the value of your first name as a string.  
 // - Second variable should be named "lastName" with the value of your last name as a string.  
@@ -314,4 +314,4 @@ TEST CHANGES Aida
 // - Contains a blank README.md file
 
 // Submit the link to the GitHub repository in the URL2 field in your assignment submission form.
-// NO CODE FOR THIS TASK
+// NO CODE FOR THIS TASK for today
